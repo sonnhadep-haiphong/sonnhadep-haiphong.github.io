@@ -1,0 +1,1 @@
+document.querySelectorAll('.range').forEach(r=>r.oninput=e=>e.target.previousElementSibling.style.width=e.target.value+'%');
