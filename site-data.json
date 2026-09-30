@@ -1,0 +1,90 @@
+{
+  "brand": "Sơn Nhà Đẹp Hoàn Nguyễn",
+  "tagline": "Sắc màu cho ngôi nhà Việt",
+  "heroTitle": "Chuyên sơn nhà Hải Phòng",
+  "heroText": "Nội thất • Ngoại thất • Chống thấm • Thi công trọn gói",
+  "phone": "",
+  "zalo": "",
+  "facebook": "",
+  "address": "Hải Phòng",
+  "products": [
+    {
+      "name": "Dulux Weathershield",
+      "category": "Ngoại thất",
+      "image": "",
+      "description": "Sản phẩm sơn ngoại thất tham khảo."
+    },
+    {
+      "name": "Dulux EasyClean",
+      "category": "Nội thất",
+      "image": "",
+      "description": "Sản phẩm sơn nội thất tham khảo."
+    },
+    {
+      "name": "Jotun Majestic",
+      "category": "Nội thất",
+      "image": "",
+      "description": "Sản phẩm sơn nội thất tham khảo."
+    },
+    {
+      "name": "Jotun Jotashield",
+      "category": "Ngoại thất",
+      "image": "",
+      "description": "Sản phẩm sơn ngoại thất tham khảo."
+    },
+    {
+      "name": "Nippon Odour-less",
+      "category": "Nội thất",
+      "image": "",
+      "description": "Sản phẩm sơn nội thất tham khảo."
+    },
+    {
+      "name": "Kova CT11A",
+      "category": "Chống thấm",
+      "image": "",
+      "description": "Sản phẩm chống thấm tham khảo."
+    }
+  ],
+  "colors": [
+    {
+      "name": "Kem",
+      "hex": "#F5F5DC"
+    },
+    {
+      "name": "Xanh nhạt",
+      "hex": "#E3F2FD"
+    },
+    {
+      "name": "Vàng nhạt",
+      "hex": "#FFF3E0"
+    },
+    {
+      "name": "Xanh lá",
+      "hex": "#E8F5E9"
+    },
+    {
+      "name": "Ghi",
+      "hex": "#ECEFF1"
+    },
+    {
+      "name": "Xanh biển",
+      "hex": "#BBDEFB"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Công trình mẫu 1",
+      "location": "Hải Phòng",
+      "before": "",
+      "after": "",
+      "description": "Thay bằng ảnh công trình thực tế của bạn."
+    },
+    {
+      "name": "Công trình mẫu 2",
+      "location": "Hải Phòng",
+      "before": "",
+      "after": "",
+      "description": "Thay bằng ảnh công trình thực tế của bạn."
+    }
+  ]
+}
